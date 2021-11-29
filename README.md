@@ -4,6 +4,8 @@
 ・支援者が増えた場合 Config.json で設定されたチャンネルで通知する
 <br>
 <br>
+Node.js Ver.16.6.0~
+<br>
 discord.js V13
 <br>
 node-cron
