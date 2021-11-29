@@ -3,7 +3,10 @@
 <br>
 ・支援者が増えた場合 Config.json で設定されたチャンネルで通知する
 <br>
-
+<br>
+discord.js V13
+<br>
+node-cron
 ## License(ライセンス)
 日本語: [MarumasaLicense v1.0 (日本語)](https://github.com/malken21/MarumasaLicenses/blob/main/MarumasaLicense_v1.0/LICENSE-ja.md)
 <br>
