@@ -2,5 +2,5 @@
   "TOKEN" : "DiscordのBotのTOKEN",
   "serverID" : "Botを使いたいサーバーのギルドID",
   "channelID" : "支援者が増えたとき通知をするチャンネルID",
-  "URL" : "https://www.satofull.jp/projects/business_detail.php?crowdfunding_id=「」"
+  "URL" : "https://www.satofull.jp/projects/business_detail.php?crowdfunding_id=「IDをここに入力」"
 }
