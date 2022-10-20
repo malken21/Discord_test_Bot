@@ -1,6 +1,9 @@
 # Discord_test_Bot
 
 <!--
+https://www.satofull.jp/projects/searchlist.php  の情報を表示するDiscord Bot
+
+
 ・/satofull とスラッシュコマンドを入力すると Config.json で設定された さとふる の情報を表示
 <br>
 ・支援者が増えた場合 Config.json で設定されたチャンネルで通知する
